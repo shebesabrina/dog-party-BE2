@@ -39,12 +39,13 @@ img {
   padding: 8px 4px;
 }
 
-.contents {
+.dog-rows {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: row;
   justify-content: center;
 }
 
-div.footer {
-  background-color: blue
+footer {
+  color: white;
+  background-color: #5DADE2
 }
